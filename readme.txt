@@ -1,5 +1,5 @@
 Serotonin WordPress Theme
-Donate link: https://themeforest.net/user/collisionstudio
+Donate link: https://creativevoid.co
 Tags: one-column, two-columns, right-sidebar, custom-colors, custom-header, custom-menu, editor-style, featured-images, flexible-header, post-formats, sticky-post, threaded-comments, translation-ready, blog
 Requires at least: 3.0
 Tested up to: 4.6.1
