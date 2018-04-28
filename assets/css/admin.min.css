@@ -1,0 +1,16 @@
+/*
+ * ADMIN DASHBOARD
+ * @package Serotonin
+ *
+ * Serotonin Wordpress Theme
+ * (c) 2016 Collision Studio | collision.studio
+ */
+
+@media only screen and (min-width:601px) {
+	#acf-serotonin-about-title, #acf-serotonin-about-subtitle,
+	#acf-serotonin-link-1-text, #acf-serotonin-link-1-url,
+	#acf-serotonin-link-2-text, #acf-serotonin-link-2-url,
+	#acf-serotonin-link-3-text, #acf-serotonin-link-3-url																		{ width:    50%; display: inline-block; box-sizing: border-box; }
+	#acf-serotonin-facebook, #acf-serotonin-twitter, #acf-serotonin-instagram, #acf-serotonin-tumblr, #acf-serotonin-pinterest	{ width:    20%; display: inline-block; box-sizing: border-box; border: none; }
+	#acf-serotonin-first-featured-category, #acf-serotonin-second-featured-category, #acf-serotonin-third-featured-category		{ width: 33.33%; display: inline-block; box-sizing: border-box; }
+}
